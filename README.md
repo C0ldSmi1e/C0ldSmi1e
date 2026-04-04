@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+C0ldSmi1e or Daniel Yu.
+
+BUILDING and using AI while still CODING, and being able to DEBUG and FIX AI-generated issues.
