@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 C0ldSmi1e or Daniel Yu.
 
 BUILDING and using AI while still CODING, and being able to DEBUG and FIX AI-generated issues.
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=C0ldSmi1e)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/C0ldSmi1e)](https://leetcode.com/C0ldSmi1e)
