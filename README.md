@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **C0ldSmi1e/C0ldSmi1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-C0ldSmi1e or Daniel Yu.
+Hi there 👋🏻, I am C0ldSmi1e or Daniel Yu.
 
 BUILDING and using AI while still CODING, and being able to DEBUG and FIX AI-generated issues.
 
